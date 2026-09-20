@@ -1,6 +1,6 @@
 # GSoC-Doc
 
-Documentation for my Google Summer of Code work.
+Documentation for Google Summer of Code work.
 
 ## 2026
 
